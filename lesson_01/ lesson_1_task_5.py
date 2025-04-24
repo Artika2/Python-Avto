@@ -1,3 +1,14 @@
-def num(а, б, в, г, д, е, ж, з, и, к, л):
-    print(а, б, в, г, д, е, ж, з, и, к, л)
-num(8,8,0,0,5,5,5,3,5,3,5)
+def repetition(num):
+    print(num, end='')
+
+repetition(8)
+repetition(8)
+repetition(0)
+repetition(0)
+repetition(5)
+repetition(5)
+repetition(5)
+repetition(3)
+repetition(5)
+repetition(3)
+repetition(5)
